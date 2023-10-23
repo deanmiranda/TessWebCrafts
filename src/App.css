@@ -1,0 +1,62 @@
+
+main {
+    height: 100vh;
+    width: 100%;
+}
+
+.background-image {
+    background-image: url('./images/backgroundstars.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    min-height: 100vh; 
+  }
+
+.project-1, .project-2, .project-3, .project-4, .project-5 {
+    position: relative;
+}
+ 
+.btn {
+    background-color: #1d386b;
+    color: #F0EB8D;
+    font-weight: bold;
+    width: 100px;
+    margin: auto;
+    font-size: 20px;
+    margin-right: 10px;
+}
+  .button-container {
+    display: none;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    background-color: #1d386b;
+    
+}
+
+.project-1:hover .button-container, .project-2:hover .button-container, .project-3:hover .button-container, .project-4:hover .button-container, .project-5:hover .button-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.hidden-btn {
+    display: none;
+}
+
+
+.project-1:hover .hidden-btn, .project-2:hover .hidden-btn, .project-3:hover .hidden-btn, .project-4:hover .hidden-btn, .project-5:hover .hidden-btn {
+    display: inline-block;
+}
+
+.faded-image {
+  
+
+    filter: blur(20px); 
+    z-index: -1;
+    mix-blend-mode: soft-light;
+}
