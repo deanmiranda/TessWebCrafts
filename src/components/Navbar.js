@@ -26,7 +26,7 @@ export default function Navbar() {
   return (
      <nav
       className="navbar navbar-expand-md navbar-dark top-0 shadow-md p-4 fixed-top"
-      style={{ backgroundColor: 'transparent' }}
+      style={{ backgroundColor: 'transparent'}}
     >
       <div className="container">
         <a className="navbar-brand text-gray-800 fs-1 font-weight-bold" style={{ color: '#F0EB8D' }}>
