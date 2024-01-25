@@ -1,20 +1,16 @@
 {
   "files": {
-    "main.css": "/TessWebCrafts/static/css/main.c888b964.css",
-    "main.js": "/TessWebCrafts/static/js/main.39c76e49.js",
-    "static/media/backgroundstars.jpg": "/TessWebCrafts/static/media/backgroundstars.f50f4b4f1e0054598af7.jpg",
-    "static/media/aboutmeImage.png": "/TessWebCrafts/static/media/aboutmeImage.87ed5cf608ae399c57c0.png",
-    "static/media/ecommerce.png": "/TessWebCrafts/static/media/ecommerce.028d22b15bef3b93e926.png",
-    "static/media/game.png": "/TessWebCrafts/static/media/game.dfec0623dfbe99f0691f.png",
-    "static/media/petpost.png": "/TessWebCrafts/static/media/petpost.91beb7d45ecbf6c49232.png",
-    "static/media/techblog.png": "/TessWebCrafts/static/media/techblog.9909fbb8d12a2738d7f1.png",
-    "static/media/texteditor.png": "/TessWebCrafts/static/media/texteditor.fbd9a9370ac96099df33.png",
-    "index.html": "/TessWebCrafts/index.html",
-    "main.c888b964.css.map": "/TessWebCrafts/static/css/main.c888b964.css.map",
-    "main.39c76e49.js.map": "/TessWebCrafts/static/js/main.39c76e49.js.map"
+    "main.css": "/%7BMy-Portfolio%7D/static/css/main.76251b58.css",
+    "main.js": "/%7BMy-Portfolio%7D/static/js/main.da40ae3a.js",
+    "static/media/backgroundstars.jpg": "/%7BMy-Portfolio%7D/static/media/backgroundstars.f50f4b4f1e0054598af7.jpg",
+    "static/media/aboutmeImage.png": "/%7BMy-Portfolio%7D/static/media/aboutmeImage.87ed5cf608ae399c57c0.png",
+    "static/media/projectsImage.png": "/%7BMy-Portfolio%7D/static/media/projectsImage.d5f7b94eb2b7f020af81.png",
+    "index.html": "/%7BMy-Portfolio%7D/index.html",
+    "main.76251b58.css.map": "/%7BMy-Portfolio%7D/static/css/main.76251b58.css.map",
+    "main.da40ae3a.js.map": "/%7BMy-Portfolio%7D/static/js/main.da40ae3a.js.map"
   },
   "entrypoints": [
-    "static/css/main.c888b964.css",
-    "static/js/main.39c76e49.js"
+    "static/css/main.76251b58.css",
+    "static/js/main.da40ae3a.js"
   ]
 }
